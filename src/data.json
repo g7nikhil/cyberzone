@@ -1,0 +1,222 @@
+[
+  {
+    "id": "wireless",
+    "name": "Wireless Security",
+    "type": "Major Paper 1",
+    "credits": 4,
+    "marks": 150,
+    "theoryMarks": 60,
+    "internalMarks": 40,
+    "practicalMarks": 50,
+    "units": [
+      {
+        "number": 1,
+        "text": "Adhoc and Mobile Security: Security in Ad Hoc Wireless Networks, Network  Security Requirements, Security Challenges, Network Security Attacks, Key  Management, Secure Routing in Adhoc Wireless Networks, Mobile System  Architectures, GSM and UMTS Security & Attacks, Vulnerabilities in Cellular  Services, Cellular Jamming Attacks and Mitigation, Mobile Application Security",
+        "hours": "10",
+        "weight": "33.33%"
+      },
+      {
+        "number": 2,
+        "text": "Wireless Network Security: Wireless Security Overview, Scanning and  Enumerating 802.11 Networks, Attacking WPA Protected Networks, Bluetooth  Scanning and Eavesdropping, Bluetooth Attacks, Zigbee Security and Zigbee Attacks, Wireless Security Tools and Techniques",
+        "hours": "10",
+        "weight": "33.33%"
+      },
+      {
+        "number": 3,
+        "text": "Cloud Security and Advanced Wireless Security: Security Provisioning in Adhoc  Networks, Key Management Techniques, Secure Routing Protocols, Cloud Security  Risks and Countermeasures, Data Protection in Cloud, Cloud Application Security,  Identity and Access Management, Cloud Security as a Service, SAML and OAuth",
+        "hours": "10",
+        "weight": "33.33%"
+      }
+    ],
+    "outcomes": [
+      "Explain the fundamental concepts, security requirements, and challenges associated with wireless, mobile, and ad hoc networks.",
+      "Analyze security threats, vulnerabilities, and attacks in cellular and wireless communication systems.",
+      "Apply security tools and techniques to identify, assess, and mitigate wireless network vulnerabilities.",
+      "Evaluate key management, secure routing, and security provisioning mechanisms in ad hoc wireless networks.",
+      "Assess cloud security risks and implement appropriate cloud security controls, identity management, and authentication mechanisms."
+    ],
+    "practicals": [
+      "1. Set up a basic wireless network using a Wi-Fi router or access point",
+      "2. Capture and analyze wireless packets using a network analyzer tool",
+      "3. Configure wireless networks with WPA3 encryption and disable legacy protocols",
+      "4. Perform scanning to identify nearby wireless networks and devices",
+      "5. Analyze signal strength and wireless channel usage",
+      "6. Detect and identify rogue access points in a wireless environment",
+      "7. Compare and test encryption protocols such as WEP, WPA, WPA2 and WPA3",
+      "8. Perform penetration testing on a wireless network using Aircrack-ng tools"
+    ],
+    "note": "",
+    "references": [
+      "Adhoc Wireless Networks Architectures and Protocols \u2013 Prentice Hall, 2007",
+      "Security of Mobile Communications \u2013 2010",
+      "Cloud Security and Privacy \u2013 O\u2019Reilly Publications",
+      "Wireless Security Models, Threats and Solutions \u2013 Wiley Publications",
+      "Network Security Essentials \u2013 Pearson Education"
+    ]
+  },
+  {
+    "id": "ethical",
+    "name": "Ethical Hacking",
+    "type": "Major Paper 2",
+    "credits": 4,
+    "marks": 150,
+    "theoryMarks": 60,
+    "internalMarks": 40,
+    "practicalMarks": 50,
+    "units": [
+      {
+        "number": 1,
+        "text": "Introduction to Information Security and Cyber Attacks: Asset, Access  Control, CIA Triad, Authentication, Authorization, Risk, Threat, Vulnerability,  Malware, OWASP Top 10, OWASP Mobile Top 10, CVE Database, Types of  Malware, Keystroke Logging, DoS/DDoS, Phishing, Eavesdropping, MITM,  Session Hijacking, DNS/ARP Poisoning, IoT Attacks, BOTs and BOTNETs",
+        "hours": "10",
+        "weight": "33.33%"
+      },
+      {
+        "number": 2,
+        "text": "Ethical Hacking and Security Testing: Black Hat, Gray Hat and White Hat  Hacking, Ethical Hacking Process, Security Auditing, Digital Forensics, NDA and  Compliance Issues, Vulnerability Assessment and Penetration Testing, Threat  Modeling, Security Verification Standards, Information Gathering, Vulnerability  Analysis, Security Testing Tools (Qualys, Nessus, Metasploit)",
+        "hours": "10",
+        "weight": "33.33%"
+      },
+      {
+        "number": 3,
+        "text": "Enterprise Security Strategy and Advanced Attacks: Reconnaissance,  Enumeration, Scanning, Sniffing, System Hacking, Password Cracking, Network Hacking, SQL Injection, XSS, Mobile Application Security, Continuous Application Security Testing, Report Preparation and Security Fixes",
+        "hours": "10",
+        "weight": "33.33%"
+      }
+    ],
+    "outcomes": [
+      "Explain the fundamental concepts of information security, cyber threats, vulnerabilities, and attack techniques.",
+      "Analyze various cyber-attacks and evaluate their impact on systems, applications, and networks.",
+      "Apply ethical hacking methodologies, vulnerability assessment, and penetration testing techniques to identify security weaknesses.",
+      "Evaluate security testing results and recommend appropriate countermeasures to mitigate cyber threats.",
+      "Demonstrate knowledge of advanced hacking techniques, enterprise security strategies, and secure application practices."
+    ],
+    "practicals": [
+      "1. Study and implementation of Ethical Hacking Essential Series from EC-Council Platform",
+      "2. Perform vulnerability scanning using security tools",
+      "3. Demonstrate SQL Injection and prevention mechanisms",
+      "4. Demonstrate Cross Site Scripting (XSS) attacks and mitigation",
+      "5. Perform network scanning and packet analysis using Wireshark",
+      "6. Demonstrate password cracking techniques and countermeasures",
+      "7. Perform penetration testing using Metasploit and Kali Linux",
+      "8. Analyze malware behavior and security vulnerabilities"
+    ],
+    "note": "",
+    "references": [
+      "Certified Ethical Hacker Study Guide v9 \u2013 Sybex, 2016",
+      "CEH Official Certified Ethical Hacking Review Guide \u2013 2007",
+      "Certified Ethical Hacker \u2013 Pearson Education, 1st Edition, 2013",
+      "Certified Ethical Hacker \u2013 TMH, 2011",
+      "PTES Technical Guidelines",
+      "OWASP Top Ten Project",
+      "OWASP Mobile Top 10"
+    ]
+  },
+  {
+    "id": "game",
+    "name": "Game Development",
+    "type": "Minor Paper 1",
+    "credits": 4,
+    "marks": 150,
+    "theoryMarks": 60,
+    "internalMarks": 40,
+    "practicalMarks": 50,
+    "units": [
+      {
+        "number": 1,
+        "text": "Introduction to Information Security and Cyber Attacks: Information Security  Concepts, CIA Triad, Malware, OWASP Top 10, OWASP Mobile Top 10, Threats, Vulnerabilities, Risks, Common Cyber Attacks, Phishing, DoS/DDoS, Session Hijacking, MITM Attacks",
+        "hours": "10",
+        "weight": "33.33%"
+      },
+      {
+        "number": 2,
+        "text": "Ethical Hacking and Security Assessment: Ethical Hacking Concepts, Black Hat and White Hat Hacking, Security Auditing, Vulnerability Assessment and Penetration  Testing (VAPT), Threat Modeling, Information Gathering, Security Testing Tools, Vulnerability Analysis and Reporting",
+        "hours": "10",
+        "weight": "33.33%"
+      },
+      {
+        "number": 3,
+        "text": "Advanced Hacking Techniques and Security: Reconnaissance, Enumeration,  Scanning, System Hacking, Password Cracking, SQL Injection, Cross Site Scripting  (XSS), Mobile Application Security, Network Security Attacks and Countermeasures",
+        "hours": "10",
+        "weight": "33.33%"
+      }
+    ],
+    "outcomes": [
+      "Explain the fundamental concepts of information security, cyber threats, vulnerabilities, and attack vectors.",
+      "Analyze common cyber-attacks and evaluate their impact on information systems and networks.",
+      "Apply ethical hacking methodologies, vulnerability assessment, and penetration testing techniques to identify security weaknesses.",
+      "Evaluate security risks and recommend suitable countermeasures based on security assessment findings.",
+      "Demonstrate knowledge of advanced hacking techniques, web security vulnerabilities, and network security defense mechanisms."
+    ],
+    "practicals": [
+      "1. Design a simple 2D game interface using a game development tool",
+      "2. Create game characters and backgrounds using graphics tools",
+      "3. Implement player movement and event handling in a game",
+      "4. Develop collision detection and scoring mechanisms",
+      "5. Create animations and sound effects for a game",
+      "6. Develop a simple multiplayer or network-based game module",
+      "7. Perform testing and debugging of a game application",
+      "8. Develop and deploy a mini game project using a game engine"
+    ],
+    "note": "The source document labels this subject Game Development, but its theory units and course outcomes contain cybersecurity/ethical-hacking material. The original wording is preserved; please verify with your college.",
+    "references": [
+      "Beginning Game Development with Unity \u2013 Apress Publications",
+      "The Art of Game Design: A Book of Lenses \u2013 CRC Press",
+      "Game Programming Patterns \u2013 Genever Benning Publications",
+      "Unity in Action \u2013 Manning Publications",
+      "Introduction to Game Development \u2013 Charles River Media",
+      "Developing Games With Unity and C# \u2013 Pearson Education",
+      "3D Math Primer for Graphics and Game Development \u2013 CRC Press",
+      "Unity Official Documentation",
+      "Unreal Engine Documentation"
+    ]
+  },
+  {
+    "id": "essentials",
+    "name": "Cyber Security Essentials",
+    "type": "SEC",
+    "credits": 2,
+    "marks": 50,
+    "theoryMarks": 30,
+    "internalMarks": 20,
+    "practicalMarks": 0,
+    "units": [
+      {
+        "number": 1,
+        "text": "Introduction to Cyber Security: Basics of Cyber Security, CIA Triad, Common  Cyber Threats (Malware, Phishing, Ransomware), Threats, Vulnerabilities and  Risks, Introduction to Ethical Hacking, Basics of Network Security, Firewalls and  VPN",
+        "hours": "10",
+        "weight": "33.33%"
+      },
+      {
+        "number": 2,
+        "text": "System and Data Security: Operating System Security, Access Control and User  Permissions, OWASP Top Ten Overview, Web Security Basics (SQL Injection,  XSS), Basics of Cryptography, Encryption and Decryption, Digital Signatures",
+        "hours": "10",
+        "weight": "33.33%"
+      },
+      {
+        "number": 3,
+        "text": "Cyber Security Management and Compliance: Risk Management, Incident  Response, Security Awareness, Cyber Laws and Ethics, GDPR and ISO 27001 Overview, Best Practices for Secure Computing",
+        "hours": "10",
+        "weight": "33.33%"
+      }
+    ],
+    "outcomes": [
+      "Explain the fundamental concepts, terminology, and principles of cyber security.",
+      "Identify and analyze common cyber threats, vulnerabilities, and network security mechanisms.",
+      "Apply basic security measures to protect systems, applications, and data from cyber attacks.",
+      "Demonstrate an understanding of cryptographic techniques and their role in securing information.",
+      "Evaluate cyber security risks and apply security policies, legal requirements, and best practices for secure computing."
+    ],
+    "practicals": [],
+    "note": "",
+    "references": [
+      "Cybersecurity Essentials",
+      "Network Security Essentials: Applications and Standards",
+      "Cryptography and Network Security",
+      "Coursera Cyber Security Specialization",
+      "edX Cybersecurity Fundamentals",
+      "Wireshark",
+      "Metasploit",
+      "Nmap"
+    ]
+  }
+]

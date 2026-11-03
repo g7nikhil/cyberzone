@@ -1,0 +1,11 @@
+Minimal Academic design update
+- Compact subject cards: 8px corners, subject-specific outline icons and names on same line, no arrows.
+- Simple MAJOR / MINOR / SEC headings with separator lines.
+- White light-mode header, 40px logo, minimal icon buttons.
+- Sidebar: 6px navigation gap, pale-yellow active item, neutral hover, outline book/flask icons.
+- Subject units and practical groups: bordered 8px accordions, yellow expanded borders.
+- Topic lists: clean numbered links.
+- Topic/practical pages: one contextual back link; no print/download buttons or Coming Soon messages.
+- Topic/practical bottom navigation: only number, title and directional arrow.
+- Original verified subject/practical JSON preserved unchanged.
+- Desktop-first layout preserved.

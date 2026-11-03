@@ -1,0 +1,33 @@
+{
+  "wireless": [
+    "Set up a basic wireless network using a Wi-Fi router or access point",
+    "Capture and analyze wireless packets using a network analyzer tool",
+    "Configure wireless networks with WPA3 encryption and disable legacy protocols",
+    "Perform scanning to identify nearby wireless networks and devices",
+    "Analyze signal strength and wireless channel usage",
+    "Detect and identify rogue access points in a wireless environment",
+    "Compare and test encryption protocols such as WEP, WPA, WPA2 and WPA3",
+    "Perform penetration testing on a wireless network using Aircrack-ng tools"
+  ],
+  "ethical": [
+    "Study and implementation of Ethical Hacking Essential Series from EC-Council Platform",
+    "Perform vulnerability scanning using security tools",
+    "Demonstrate SQL Injection and prevention mechanisms",
+    "Demonstrate Cross Site Scripting (XSS) attacks and mitigation",
+    "Perform network scanning and packet analysis using Wireshark",
+    "Demonstrate password cracking techniques and countermeasures",
+    "Perform penetration testing using Metasploit and Kali Linux",
+    "Analyze malware behavior and security vulnerabilities"
+  ],
+  "game": [
+    "Design a simple 2D game interface using a game development tool",
+    "Create game characters and backgrounds using graphics tools",
+    "Implement player movement and event handling in a game",
+    "Develop collision detection and scoring mechanisms",
+    "Create animations and sound effects for a game",
+    "Develop a simple multiplayer or network-based game module",
+    "Perform testing and debugging of a game application",
+    "Develop and deploy a mini game project using a game engine"
+  ],
+  "essentials": []
+}

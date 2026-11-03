@@ -1,0 +1,18 @@
+[
+  {
+    "id": "wireless",
+    "name": "Wireless Security"
+  },
+  {
+    "id": "ethical",
+    "name": "Ethical Hacking"
+  },
+  {
+    "id": "game",
+    "name": "Game Development"
+  },
+  {
+    "id": "essentials",
+    "name": "Cyber Security Essentials"
+  }
+]

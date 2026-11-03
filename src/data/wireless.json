@@ -1,0 +1,176 @@
+{
+  "id": "wireless",
+  "name": "Wireless Security",
+  "units": [
+    {
+      "number": 1,
+      "title": "Adhoc and Mobile Security",
+      "sourceText": "Adhoc and Mobile Security: Security in Ad Hoc Wireless Networks, Network  Security Requirements, Security Challenges, Network Security Attacks, Key  Management, Secure Routing in Adhoc Wireless Networks, Mobile System  Architectures, GSM and UMTS Security & Attacks, Vulnerabilities in Cellular  Services, Cellular Jamming Attacks and Mitigation, Mobile Application Security",
+      "topics": [
+        {
+          "number": "1.1",
+          "title": "Security in Ad Hoc Wireless Networks",
+          "content": []
+        },
+        {
+          "number": "1.2",
+          "title": "Network Security Requirements",
+          "content": []
+        },
+        {
+          "number": "1.3",
+          "title": "Security Challenges",
+          "content": []
+        },
+        {
+          "number": "1.4",
+          "title": "Network Security Attacks",
+          "content": []
+        },
+        {
+          "number": "1.5",
+          "title": "Key Management",
+          "content": []
+        },
+        {
+          "number": "1.6",
+          "title": "Secure Routing in Adhoc Wireless Networks",
+          "content": []
+        },
+        {
+          "number": "1.7",
+          "title": "Mobile System Architectures",
+          "content": []
+        },
+        {
+          "number": "1.8",
+          "title": "GSM and UMTS Security & Attacks",
+          "content": []
+        },
+        {
+          "number": "1.9",
+          "title": "Vulnerabilities in Cellular Services",
+          "content": []
+        },
+        {
+          "number": "1.10",
+          "title": "Cellular Jamming Attacks and Mitigation",
+          "content": []
+        },
+        {
+          "number": "1.11",
+          "title": "Mobile Application Security",
+          "content": []
+        }
+      ],
+      "hours": "10"
+    },
+    {
+      "number": 2,
+      "title": "Wireless Network Security",
+      "sourceText": "Wireless Network Security: Wireless Security Overview, Scanning and  Enumerating 802.11 Networks, Attacking WPA Protected Networks, Bluetooth  Scanning and Eavesdropping, Bluetooth Attacks, Zigbee Security and Zigbee Attacks, Wireless Security Tools and Techniques",
+      "topics": [
+        {
+          "number": "2.1",
+          "title": "Wireless Security Overview",
+          "content": []
+        },
+        {
+          "number": "2.2",
+          "title": "Scanning and Enumerating 802.11 Networks",
+          "content": []
+        },
+        {
+          "number": "2.3",
+          "title": "Attacking WPA Protected Networks",
+          "content": []
+        },
+        {
+          "number": "2.4",
+          "title": "Bluetooth Scanning and Eavesdropping",
+          "content": []
+        },
+        {
+          "number": "2.5",
+          "title": "Bluetooth Attacks",
+          "content": []
+        },
+        {
+          "number": "2.6",
+          "title": "Zigbee Security and Zigbee Attacks",
+          "content": []
+        },
+        {
+          "number": "2.7",
+          "title": "Wireless Security Tools and Techniques",
+          "content": []
+        }
+      ],
+      "hours": "10"
+    },
+    {
+      "number": 3,
+      "title": "Cloud Security and Advanced Wireless Security",
+      "sourceText": "Cloud Security and Advanced Wireless Security: Security Provisioning in Adhoc  Networks, Key Management Techniques, Secure Routing Protocols, Cloud Security  Risks and Countermeasures, Data Protection in Cloud, Cloud Application Security,  Identity and Access Management, Cloud Security as a Service, SAML and OAuth",
+      "topics": [
+        {
+          "number": "3.1",
+          "title": "Security Provisioning in Adhoc Networks",
+          "content": []
+        },
+        {
+          "number": "3.2",
+          "title": "Key Management Techniques",
+          "content": []
+        },
+        {
+          "number": "3.3",
+          "title": "Secure Routing Protocols",
+          "content": []
+        },
+        {
+          "number": "3.4",
+          "title": "Cloud Security Risks and Countermeasures",
+          "content": []
+        },
+        {
+          "number": "3.5",
+          "title": "Data Protection in Cloud",
+          "content": []
+        },
+        {
+          "number": "3.6",
+          "title": "Cloud Application Security",
+          "content": []
+        },
+        {
+          "number": "3.7",
+          "title": "Identity and Access Management",
+          "content": []
+        },
+        {
+          "number": "3.8",
+          "title": "Cloud Security as a Service",
+          "content": []
+        },
+        {
+          "number": "3.9",
+          "title": "SAML and OAuth",
+          "content": []
+        }
+      ],
+      "hours": "10"
+    }
+  ],
+  "materials": [],
+  "practicals": [
+    "Set up a basic wireless network using a Wi-Fi router or access point",
+    "Capture and analyze wireless packets using a network analyzer tool",
+    "Configure wireless networks with WPA3 encryption and disable legacy protocols",
+    "Perform scanning to identify nearby wireless networks and devices",
+    "Analyze signal strength and wireless channel usage",
+    "Detect and identify rogue access points in a wireless environment",
+    "Compare and test encryption protocols such as WEP, WPA, WPA2 and WPA3",
+    "Perform penetration testing on a wireless network using Aircrack-ng tools"
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": "ethical",
+  "name": "Ethical Hacking",
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to Information Security and Cyber Attacks",
+      "sourceText": "Introduction to Information Security and Cyber Attacks: Asset, Access  Control, CIA Triad, Authentication, Authorization, Risk, Threat, Vulnerability,  Malware, OWASP Top 10, OWASP Mobile Top 10, CVE Database, Types of  Malware, Keystroke Logging, DoS/DDoS, Phishing, Eavesdropping, MITM,  Session Hijacking, DNS/ARP Poisoning, IoT Attacks, BOTs and BOTNETs",
+      "topics": [
+        {
+          "number": "1.1",
+          "title": "Asset",
+          "content": []
+        },
+        {
+          "number": "1.2",
+          "title": "Access Control",
+          "content": []
+        },
+        {
+          "number": "1.3",
+          "title": "CIA Triad",
+          "content": []
+        },
+        {
+          "number": "1.4",
+          "title": "Authentication",
+          "content": []
+        },
+        {
+          "number": "1.5",
+          "title": "Authorization",
+          "content": []
+        },
+        {
+          "number": "1.6",
+          "title": "Risk",
+          "content": []
+        },
+        {
+          "number": "1.7",
+          "title": "Threat",
+          "content": []
+        },
+        {
+          "number": "1.8",
+          "title": "Vulnerability",
+          "content": []
+        },
+        {
+          "number": "1.9",
+          "title": "Malware",
+          "content": []
+        },
+        {
+          "number": "1.10",
+          "title": "OWASP Top 10",
+          "content": []
+        },
+        {
+          "number": "1.11",
+          "title": "OWASP Mobile Top 10",
+          "content": []
+        },
+        {
+          "number": "1.12",
+          "title": "CVE Database",
+          "content": []
+        },
+        {
+          "number": "1.13",
+          "title": "Types of Malware",
+          "content": []
+        },
+        {
+          "number": "1.14",
+          "title": "Keystroke Logging",
+          "content": []
+        },
+        {
+          "number": "1.15",
+          "title": "DoS/DDoS",
+          "content": []
+        },
+        {
+          "number": "1.16",
+          "title": "Phishing",
+          "content": []
+        },
+        {
+          "number": "1.17",
+          "title": "Eavesdropping",
+          "content": []
+        },
+        {
+          "number": "1.18",
+          "title": "MITM",
+          "content": []
+        },
+        {
+          "number": "1.19",
+          "title": "Session Hijacking",
+          "content": []
+        },
+        {
+          "number": "1.20",
+          "title": "DNS/ARP Poisoning",
+          "content": []
+        },
+        {
+          "number": "1.21",
+          "title": "IoT Attacks",
+          "content": []
+        },
+        {
+          "number": "1.22",
+          "title": "BOTs and BOTNETs",
+          "content": []
+        }
+      ],
+      "hours": "10"
+    },
+    {
+      "number": 2,
+      "title": "Ethical Hacking and Security Testing",
+      "sourceText": "Ethical Hacking and Security Testing: Black Hat, Gray Hat and White Hat  Hacking, Ethical Hacking Process, Security Auditing, Digital Forensics, NDA and  Compliance Issues, Vulnerability Assessment and Penetration Testing, Threat  Modeling, Security Verification Standards, Information Gathering, Vulnerability  Analysis, Security Testing Tools (Qualys, Nessus, Metasploit)",
+      "topics": [
+        {
+          "number": "2.1",
+          "title": "Black Hat",
+          "content": []
+        },
+        {
+          "number": "2.2",
+          "title": "Gray Hat and White Hat Hacking",
+          "content": []
+        },
+        {
+          "number": "2.3",
+          "title": "Ethical Hacking Process",
+          "content": []
+        },
+        {
+          "number": "2.4",
+          "title": "Security Auditing",
+          "content": []
+        },
+        {
+          "number": "2.5",
+          "title": "Digital Forensics",
+          "content": []
+        },
+        {
+          "number": "2.6",
+          "title": "NDA and Compliance Issues",
+          "content": []
+        },
+        {
+          "number": "2.7",
+          "title": "Vulnerability Assessment and Penetration Testing",
+          "content": []
+        },
+        {
+          "number": "2.8",
+          "title": "Threat Modeling",
+          "content": []
+        },
+        {
+          "number": "2.9",
+          "title": "Security Verification Standards",
+          "content": []
+        },
+        {
+          "number": "2.10",
+          "title": "Information Gathering",
+          "content": []
+        },
+        {
+          "number": "2.11",
+          "title": "Vulnerability Analysis",
+          "content": []
+        },
+        {
+          "number": "2.12",
+          "title": "Security Testing Tools (Qualys, Nessus, Metasploit)",
+          "content": []
+        }
+      ],
+      "hours": "10"
+    },
+    {
+      "number": 3,
+      "title": "Enterprise Security Strategy and Advanced Attacks",
+      "sourceText": "Enterprise Security Strategy and Advanced Attacks: Reconnaissance,  Enumeration, Scanning, Sniffing, System Hacking, Password Cracking, Network Hacking, SQL Injection, XSS, Mobile Application Security, Continuous Application Security Testing, Report Preparation and Security Fixes",
+      "topics": [
+        {
+          "number": "3.1",
+          "title": "Reconnaissance",
+          "content": []
+        },
+        {
+          "number": "3.2",
+          "title": "Enumeration",
+          "content": []
+        },
+        {
+          "number": "3.3",
+          "title": "Scanning",
+          "content": []
+        },
+        {
+          "number": "3.4",
+          "title": "Sniffing",
+          "content": []
+        },
+        {
+          "number": "3.5",
+          "title": "System Hacking",
+          "content": []
+        },
+        {
+          "number": "3.6",
+          "title": "Password Cracking",
+          "content": []
+        },
+        {
+          "number": "3.7",
+          "title": "Network Hacking",
+          "content": []
+        },
+        {
+          "number": "3.8",
+          "title": "SQL Injection",
+          "content": []
+        },
+        {
+          "number": "3.9",
+          "title": "XSS",
+          "content": []
+        },
+        {
+          "number": "3.10",
+          "title": "Mobile Application Security",
+          "content": []
+        },
+        {
+          "number": "3.11",
+          "title": "Continuous Application Security Testing",
+          "content": []
+        },
+        {
+          "number": "3.12",
+          "title": "Report Preparation and Security Fixes",
+          "content": []
+        }
+      ],
+      "hours": "10"
+    }
+  ],
+  "materials": [],
+  "practicals": [
+    "Study and implementation of Ethical Hacking Essential Series from EC-Council Platform",
+    "Perform vulnerability scanning using security tools",
+    "Demonstrate SQL Injection and prevention mechanisms",
+    "Demonstrate Cross Site Scripting (XSS) attacks and mitigation",
+    "Perform network scanning and packet analysis using Wireshark",
+    "Demonstrate password cracking techniques and countermeasures",
+    "Perform penetration testing using Metasploit and Kali Linux",
+    "Analyze malware behavior and security vulnerabilities"
+  ]
+}

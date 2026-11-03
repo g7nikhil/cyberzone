@@ -1,0 +1,17 @@
+CyberZone Academy — Stage 4
+
+Changes:
+- Removed the header search icon and search popup entirely.
+- Removed search-related JavaScript and Ctrl+K shortcut.
+- Removed unused search styles.
+- Preserved the existing Major / Minor / SEC categories, subject units, 24 practical titles, theme toggle, sidebar, back navigation, and printable topic/practical pages.
+
+Run:
+  npm install
+  npm run dev
+
+Verification:
+  JavaScript syntax and JSON parsing checked.
+  Production build not verified: package installation was unavailable in this environment.
+
+Note: Subject syllabus and practical titles were preserved as provided in the previous version, not independently verified against official course documents.

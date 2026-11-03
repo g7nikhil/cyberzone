@@ -1,0 +1,16 @@
+{
+  "id": "game",
+  "name": "Game Development",
+  "units": [],
+  "materials": [],
+  "practicals": [
+    "Design a simple 2D game interface using a game development tool",
+    "Create game characters and backgrounds using graphics tools",
+    "Implement player movement and event handling in a game",
+    "Develop collision detection and scoring mechanisms",
+    "Create animations and sound effects for a game",
+    "Develop a simple multiplayer or network-based game module",
+    "Perform testing and debugging of a game application",
+    "Develop and deploy a mini game project using a game engine"
+  ]
+}
