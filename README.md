@@ -31,3 +31,9 @@ For production, run `npm run build` and serve the `dist` folder with a server th
 ## Implementation note
 
 Inter loads via Google Fonts when online; local fallback is Arial. `npm run build` requires Vite dependencies installed.
+
+
+## CyberZone v6.9
+- Mobile course drawer restores the desktop-style unit cards and topic highlighting.
+- Cyber Security Essentials topic titles and navigation remain, but all topic body notes have been removed.
+- Add future notes to `src/data/essentials.json` using the existing `content` or `contentHtml` fields.
